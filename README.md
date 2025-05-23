@@ -12,4 +12,7 @@ Ik heb een simpele movement script gemaakt waarbij nu een kubus links en rechts 
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/PlayerMovement.cs
 
 LES3
+Ik heb een script gemaakt waar bij je een kubus kan bewegen, munten kan vernietigen en wat aan je score toevoegt en een timer zodat je een "game over" kan hebben.
 
+![ezgif-17263fe6bf88ef](https://github.com/user-attachments/assets/bd7a6b85-98df-4d3a-870c-e5645314355e)
+https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/GameManager.cs
