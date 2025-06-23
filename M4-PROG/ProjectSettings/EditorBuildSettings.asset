@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/les4/GameScene.unity
+    guid: 0b78196af7d8d524fac6d15ac013a935
+  - enabled: 1
+    path: Assets/Scenes/les4/StartScene.unity
+    guid: 353721e65a9e2854a84c367f33686889
   m_configObjects: {}
