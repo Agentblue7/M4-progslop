@@ -445,7 +445,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4039640904093731623, guid: 8d22222e1be447e4f8e49ae3c8d7632b, type: 3}
       propertyPath: m_Name
-      value: 'coin '
+      value: coin
       objectReference: {fileID: 0}
     - target: {fileID: 8304045596842622647, guid: 8d22222e1be447e4f8e49ae3c8d7632b, type: 3}
       propertyPath: m_LocalPosition.x
