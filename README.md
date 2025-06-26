@@ -32,3 +32,14 @@ Ik heb een scene gemaak waarbij je munten kan oppakken met behulp van een kubus 
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/ScoreManager.cs
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/les4movement.cs
 
+LES 6
+
+Ik heb een scene gemaakt waar je een cube kan bewegen en homing missiles schiet naar een bewegende dummie terwijl je harrased word door een sphere.
+https://github.com/user-attachments/assets/800b0691-6019-42e1-bce5-ff4f9febb9b0
+https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/Les6/FollowAndReturn.cs
+https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/Les6/HomingBullet.cs
+https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/Les6/PlayerShooting.cs
+https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/Les6/dummyscript.cs
+
+
+
