@@ -35,7 +35,7 @@ https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/les
 LES 6
 
 Ik heb een scene gemaakt waar je een cube kan bewegen en homing missiles schiet naar een bewegende dummie terwijl je harrased word door een sphere.
-https://github.com/user-attachments/assets/800b0691-6019-42e1-bce5-ff4f9febb9b0
+![ezgif-285d69a02a67a4](https://github.com/user-attachments/assets/15ee4d0c-273e-4fad-91e1-ba69218eeaab)
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/Les6/FollowAndReturn.cs
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/Les6/HomingBullet.cs
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/Les6/PlayerShooting.cs
