@@ -25,4 +25,10 @@ Ik heb een script gemaakt waar ik van scene kan verwisselen naar een gamescene m
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/SceneSwitcher.cs
 https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/Scenes/les4/playermovment2.cs
 
+LES 5
+
+Ik heb een scene gemaak waarbij je munten kan oppakken met behulp van een kubus die beweegt en een scoresystem
+![ezgif-46cd9ceea07154](https://github.com/user-attachments/assets/fe6f9cc2-f761-429a-b246-5a42b686bfb4)
+https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/ScoreManager.cs
+https://github.com/Agentblue7/M4-progslop/blob/master/M4-PROG/Assets/scripts/les4movement.cs
 
